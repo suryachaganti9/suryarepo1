@@ -1,0 +1,4 @@
+#adding new file diretly remote repo from git repo 
+a=2
+b=5
+print("a + b are : " , a+b)
