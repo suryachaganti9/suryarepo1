@@ -11,5 +11,6 @@ print("a/b div :",a/b)
 
 
 print("Thank you and have nice day !!")
+print("Thank you and have nice day22 !!")
 
 
